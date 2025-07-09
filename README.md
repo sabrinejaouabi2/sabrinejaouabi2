@@ -8,8 +8,6 @@
 
 📫 Vous pouvez me contacter via mon profil GitHub.
 
-😄 Pronom : Elle
-
 ⚡ Fun fact : J’adore découvrir de nouvelles technologies et relever des défis techniques pour améliorer mes projets.
 
 <!---
